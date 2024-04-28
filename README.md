@@ -1,2 +1,3 @@
 # research-ssb.feynmanpi.com
- Research works on the topic of app.
+## Proposed Topic:
+  Feynmanpi: A  Google Gemini AI-Powered App for Revolutionizing SSB Exam Preparation
